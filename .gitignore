@@ -74,3 +74,29 @@ CLAUDE.md
 # OS files
 .DS_Store
 Thumbs.db
+
+# Asset Store packs (re-importowalne ze Sklepu — wykluczone by repo było pushowalne)
+/Assets/NatureManufacture Assets/
+/Assets/NatureManufacture Assets.meta
+/Assets/YughuesFreeGroundMaterials/
+/Assets/YughuesFreeGroundMaterials.meta
+/Assets/Pure Poly/
+/Assets/Pure Poly.meta
+/Assets/PRJ0818_Murakami/
+/Assets/PRJ0818_Murakami.meta
+/Assets/EmaceArt - raft on the desert/
+/Assets/EmaceArt - raft on the desert.meta
+/Assets/BOXOPHOBIC/
+/Assets/BOXOPHOBIC.meta
+/Assets/Palmov Island/
+/Assets/Palmov Island.meta
+/Assets/BrokenVector/
+/Assets/BrokenVector.meta
+/Assets/LowPoly Environment Pack/
+/Assets/LowPoly Environment Pack.meta
+/Assets/Apartment_Door/
+/Assets/Apartment_Door.meta
+
+# Debug screenshots
+/Assets/Screenshots/
+/Assets/Screenshots.meta

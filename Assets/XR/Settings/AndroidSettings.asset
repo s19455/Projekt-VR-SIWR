@@ -28,4 +28,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.XR.Management.Editor::UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
   Keys: 01000000
   Values:
-  - {fileID: -3009067415605004844}
+  - {fileID: 11400000, guid: 07b52bbbb4c9560489365637aaab2d75, type: 2}

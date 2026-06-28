@@ -12,7 +12,7 @@ public class QuestManager : MonoBehaviour
     public const int GiraffesRequired = 3;
 
     public HashSet<string> FactsHeard { get; } = new HashSet<string>();
-    public static readonly string[] AllFacts = { "tongue", "sleep", "iucn" };
+    public static readonly string[] AllFacts = { "tongue", "sleep", "neck" };
 
     public bool FeedingComplete => GiraffesFed >= GiraffesRequired;
     public bool FactsComplete => FactsHeard.Count >= AllFacts.Length;
